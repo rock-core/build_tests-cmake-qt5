@@ -7,5 +7,5 @@
   <url>http://https://github.com/rock-core/build_tests-cmake-qt5</url>
   <logo>http://</logo>
   <depend package="base/cmake" />
-
+  <depend package="qt5" />
 </package>
