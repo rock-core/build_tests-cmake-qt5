@@ -1,0 +1,11 @@
+<package>
+  <description brief="Test package for qt5 macros">
+  
+  </description>
+  <author>Dennis Hemker/dennis.hemker@dfki.de</author>
+  <license></license>
+  <url>http://https://github.com/rock-core/build_tests-cmake-qt5</url>
+  <logo>http://</logo>
+  <depend package="base/cmake" />
+
+</package>
