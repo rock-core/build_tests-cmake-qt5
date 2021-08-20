@@ -1,11 +1,10 @@
 rock_find_qt5()
 
-rock_executable(test_qt4
+rock_executable(test_qt5
     SOURCES
         Main.cpp
-	Gui.cpp
-    MOC
-	Gui.h
-    UI
-        main.ui 
+	    Gui.cpp
+        main.ui
+    DEPS
+        Qt5::Widgets
 )
